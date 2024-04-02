@@ -17,27 +17,32 @@ Here are some ideas to get you started:
 
 # Nabeel Farooqi. - Senior Full-Stack Developer
 ![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:720/format:webp/1*WpY8-8OiEpenpd7c-hzITA.png)
+# Full Stack Developer | JavaScript | PHP/Laravel | AWS | API Integration
+
 ## Introduction
-Hello! I'm Nabeel Farooqi, a Senior Full-Stack Developer with over 10 years of experience. Specializing in WordPress, PHP/Laravel, and e-commerce solutions, I have a proven track record of delivering top-tier web solutions, enhancing business operations, and driving digital growth.
+Hello! I'm Nabeel Farooqi, a Full Stack Developer with 6 years of experience. Specializing in JavaScript, PHP/Laravel, and AWS, I have a strong background in web development, focusing on creating efficient and scalable solutions.
 
 ## Core Competencies and Technical Skills
-* **WordPress Development**: Expert in developing advanced WordPress sites, including custom themes and plugins, tailored for unique business needs.
-* **PHP & Laravel Mastery**: Proficient in PHP and Laravel framework, creating scalable, secure back-end solutions.
-* **E-Commerce Solutions**: Extensive experience in building online stores that optimize user experience and maximize sales, using platforms like WooCommerce.
-* **Custom CRM Development**: Skilled in developing bespoke CRM systems, enhancing business-client relations and streamlining processes.
-* **Front-End Development**: Proficient in HTML5, CSS3, and JavaScript, crafting responsive and interactive web designs.
-* **Project Leadership**: Strong track record of managing and delivering multiple projects simultaneously, ensuring deadlines and quality standards are met.
+* **Full Stack Development**: Expert in building comprehensive web applications, from front-end to back-end, using JavaScript, PHP, and Laravel.
+* **PHP & Laravel Mastery**: Proficient in PHP and Laravel framework, creating robust and secure web applications.
+* **JavaScript & JS Frameworks**: Skilled in JavaScript and its frameworks, crafting dynamic and interactive web interfaces.
+* **Database Design & Query Optimization**: Experienced in designing and optimizing databases using MySQL, ensuring efficient data retrieval and storage.
+* **AWS Services**: Proficient in AWS services such as EC2, Lambda, and S3, providing scalable and secure cloud solutions.
+* **API Integration**: Skilled in integrating APIs, enhancing application functionality and interoperability.
+* **Server Administration & Optimization**: Experienced in server administration and optimization, ensuring high performance and security.
+* **Content Management Systems**: Proficient in using content management systems like WordPress, Webflow, and Instapage, offering flexible solutions for content management.
+* **Tools & Technologies**: Well-versed in tools and technologies such as Git, Jira, Firebase, and Webhooks (Zapier, Make...), enhancing development workflow and project management.
 
 ## Key Achievements
-* Successfully launched diverse e-commerce platforms, significantly boosting online presence and revenue for clients.
-* Led and delivered a large-scale custom CRM project, enhancing operational efficiency and customer engagement.
+* Successfully developed and launched large-scale websites, optimizing user experience and functionality.
+* Led database design and query optimization projects, significantly improving application performance.
 
 ## Educational Background
 I hold a Bachelor’s Degree in Computer Science, supplemented by continuous professional development. As a seasoned web developer, I blend technical expertise with a creative approach to solve complex problems. My focus is on delivering high-quality, efficient web solutions that exceed client expectations.
 
 ## Contact Information
-If you're looking to transform your web presence with a skilled Full-Stack Developer, let's connect and explore how my expertise can propel your project to success. You can reach me via email at [kazi.mustafa95@gmail.com](mailto:kazi.mustafa95@gmail.com) or visit my UpWork profile [here](https://www.upwork.com/workwith/mustafakazi).
+If you're looking to transform your web presence with a skilled Full Stack Developer, let's connect and explore how my expertise can propel your project to success. You can reach me via email at [nabeelf271994@gmail.com](mailto:nabeelf271994@gmail.com).
 
 ## Available Services
-For inquiries regarding my services, please feel free to contact me directly. I offer my services at a rate of $65.00 per hour.
+For inquiries regarding my services, please feel free to contact me directly. I offer my services at a rate of $15.00 per hour.
 
