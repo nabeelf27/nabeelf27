@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Nabeel Farooqi. - Senior Full-Stack Developer
+# Muhammad Nabeel Farooqi. - Senior Full-Stack Developer
 ![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:720/format:webp/1*WpY8-8OiEpenpd7c-hzITA.png)
 # Full Stack Developer | JavaScript | PHP/Laravel | AWS | API Integration
 
