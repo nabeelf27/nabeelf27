@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kazimustafa95/kazimustafa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nabeelf27/nabeelf27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Mustafa Kazi - Senior Full-Stack Developer
-![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:640/format:webp/1*KjdqftTalB2el8EjtEXKYQ.png)
+![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:720/format:webp/1*WpY8-8OiEpenpd7c-hzITA.png)
 ## Introduction
 Hello! I'm Mustafa Kazi, a Senior Full-Stack Developer with over 10 years of experience. Specializing in WordPress, PHP/Laravel, and e-commerce solutions, I have a proven track record of delivering top-tier web solutions, enhancing business operations, and driving digital growth.
 
